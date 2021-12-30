@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\EnginCan\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\EnginCan\\.nuget\\packages"
+    ]
+  }
+}

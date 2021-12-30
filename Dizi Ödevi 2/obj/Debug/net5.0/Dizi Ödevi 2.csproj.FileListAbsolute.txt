@@ -1,0 +1,16 @@
+C:\Users\EnginCan\source\repos\Dizi Ödevi 2\Dizi Ödevi 2\bin\Debug\net5.0\Dizi Ödevi 2.exe
+C:\Users\EnginCan\source\repos\Dizi Ödevi 2\Dizi Ödevi 2\bin\Debug\net5.0\Dizi Ödevi 2.deps.json
+C:\Users\EnginCan\source\repos\Dizi Ödevi 2\Dizi Ödevi 2\bin\Debug\net5.0\Dizi Ödevi 2.runtimeconfig.json
+C:\Users\EnginCan\source\repos\Dizi Ödevi 2\Dizi Ödevi 2\bin\Debug\net5.0\Dizi Ödevi 2.runtimeconfig.dev.json
+C:\Users\EnginCan\source\repos\Dizi Ödevi 2\Dizi Ödevi 2\bin\Debug\net5.0\Dizi Ödevi 2.dll
+C:\Users\EnginCan\source\repos\Dizi Ödevi 2\Dizi Ödevi 2\bin\Debug\net5.0\ref\Dizi Ödevi 2.dll
+C:\Users\EnginCan\source\repos\Dizi Ödevi 2\Dizi Ödevi 2\bin\Debug\net5.0\Dizi Ödevi 2.pdb
+C:\Users\EnginCan\source\repos\Dizi Ödevi 2\Dizi Ödevi 2\obj\Debug\net5.0\Dizi Ödevi 2.csproj.AssemblyReference.cache
+C:\Users\EnginCan\source\repos\Dizi Ödevi 2\Dizi Ödevi 2\obj\Debug\net5.0\Dizi Ödevi 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EnginCan\source\repos\Dizi Ödevi 2\Dizi Ödevi 2\obj\Debug\net5.0\Dizi Ödevi 2.AssemblyInfoInputs.cache
+C:\Users\EnginCan\source\repos\Dizi Ödevi 2\Dizi Ödevi 2\obj\Debug\net5.0\Dizi Ödevi 2.AssemblyInfo.cs
+C:\Users\EnginCan\source\repos\Dizi Ödevi 2\Dizi Ödevi 2\obj\Debug\net5.0\Dizi Ödevi 2.csproj.CoreCompileInputs.cache
+C:\Users\EnginCan\source\repos\Dizi Ödevi 2\Dizi Ödevi 2\obj\Debug\net5.0\Dizi Ödevi 2.dll
+C:\Users\EnginCan\source\repos\Dizi Ödevi 2\Dizi Ödevi 2\obj\Debug\net5.0\ref\Dizi Ödevi 2.dll
+C:\Users\EnginCan\source\repos\Dizi Ödevi 2\Dizi Ödevi 2\obj\Debug\net5.0\Dizi Ödevi 2.pdb
+C:\Users\EnginCan\source\repos\Dizi Ödevi 2\Dizi Ödevi 2\obj\Debug\net5.0\Dizi Ödevi 2.genruntimeconfig.cache
